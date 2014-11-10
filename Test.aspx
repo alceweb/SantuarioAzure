@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>
-            CI RIPROVO
+            NION CI RIPROVARE PIU'
         </td>
     </tr>
 </table>

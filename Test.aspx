@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>
-            dur
+            CI RIPROVO
         </td>
     </tr>
 </table>

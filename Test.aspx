@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>
-            CI RIPROVO
+            CI RIPROVO!
         </td>
     </tr>
 </table>
